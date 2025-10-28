@@ -1,1 +1,3 @@
 The residential appraisal sample report demonstrates a comprehensive analysis of a single-family home located in a suburban neighborhood. The report includes a detailed property description, site characteristics, market conditions, and a thorough comparable sales analysis using recent transactions within the subject’s market area.
+
+Please download the report for clear and better demonstration.
